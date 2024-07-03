@@ -9,10 +9,8 @@ I've been programming since 2019, I started with Python but have since learned J
 * 🚀  I'm currently working on [VALocker](http://github.com/E1Bos/VALocker)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on anything interesting
-* ⚡  I go by E1Bos online
 
-### Learning
-----------
+## Learning
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-dark.svg" width="50" height="50" alt="Rust" /></a>
 </p>
