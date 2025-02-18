@@ -6,8 +6,8 @@ CompSci Student
 
 I've been programming since 2019, I started with Python but have since learned Java among other languages, and have expanded into basic web development.
 
-* 🚀  I'm currently working on [Frustal](https://github.com/E1Bos/frustal) and maintaining [VALocker](http://github.com/E1Bos/VALocker)
-* 🧠  I'm learning Rust
+* 🚀  I'm currently maintaining [VALocker](http://github.com/E1Bos/VALocker) and [uLauncher Media Controller](https://github.com/E1Bos/ulauncher-media-controller)
+* 🧠  I'm learning Haskell and Rust
 * 🤝  I'm open to collaborating on anything interesting
 
 ## Learning
